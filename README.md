@@ -3,6 +3,5 @@
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=techpreta&theme=buefy"/>  
   
-<a href="https://www.linkedin.com/in/nataliagranato"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/nataliagranato)  
-
+![](https://komarev.com/ghpvc/?username=techpreta&color=blue&style=flat
 
